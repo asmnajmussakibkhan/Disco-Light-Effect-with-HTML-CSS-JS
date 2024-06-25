@@ -1,3 +1,8 @@
 # Disco-Light-Effect-with-HTML-CSS-JS
 
-https://codepen.io/asmnajmussakibkhan/pen/jOoveYe
+## Preview
+
+<p>
+  To run this project, go to this link: 
+  <a href="https://codepen.io/asmnajmussakibkhan/pen/jOoveYe">Disco Light Effect with HTML CSS JS</a>
+</p>
